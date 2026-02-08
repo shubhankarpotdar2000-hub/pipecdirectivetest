@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'pipecdirectivetest';
+  title = 'pipecdirectivetest ;lsakjdfl;isajdfiojhieriuehrijheuirheiuohruih';
+
+  objdetail ={
+    title : 'Angular',
+    count: 8574747,
+    rating: 4.5,
+    price : 105.9
+    
+
+  }
+
 }
